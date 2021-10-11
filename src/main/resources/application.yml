@@ -1,0 +1,4 @@
+environnement:
+  dev:
+    origin:
+      host: http://localhost:4200
